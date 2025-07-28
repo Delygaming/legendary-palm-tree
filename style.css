@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0d0d0d;
+  color: white;
+  line-height: 1.6;
+}
+.hero {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  padding: 60px 20px;
+  text-align: center;
+}
+.intro, .portfolio {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+.portfolio-item {
+  background: #1a1a1a;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  font-size: 14px;
+}
